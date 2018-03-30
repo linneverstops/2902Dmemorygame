@@ -1,0 +1,1791 @@
+fileFormatVersion: 2
+guid: 704afbeefaf96b54885694dfc331e7a2
+timeCreated: 1519691769
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: poker cards_0
+    21300002: poker cards_1
+    21300004: poker cards_2
+    21300006: poker cards_3
+    21300008: poker cards_4
+    21300010: poker cards_5
+    21300012: poker cards_6
+    21300014: poker cards_7
+    21300016: poker cards_8
+    21300018: poker cards_9
+    21300020: poker cards_10
+    21300022: poker cards_11
+    21300024: poker cards_12
+    21300026: poker cards_13
+    21300028: poker cards_14
+    21300030: poker cards_15
+    21300032: poker cards_16
+    21300034: poker cards_17
+    21300036: poker cards_18
+    21300038: poker cards_19
+    21300040: poker cards_20
+    21300042: poker cards_21
+    21300044: poker cards_22
+    21300046: poker cards_23
+    21300048: poker cards_24
+    21300050: poker cards_25
+    21300052: poker cards_26
+    21300054: poker cards_27
+    21300056: poker cards_28
+    21300058: poker cards_29
+    21300060: poker cards_30
+    21300062: poker cards_31
+    21300064: poker cards_32
+    21300066: poker cards_33
+    21300068: poker cards_34
+    21300070: poker cards_35
+    21300072: poker cards_36
+    21300074: poker cards_37
+    21300076: poker cards_38
+    21300078: poker cards_39
+    21300080: poker cards_40
+    21300082: poker cards_41
+    21300084: poker cards_42
+    21300086: poker cards_43
+    21300088: poker cards_44
+    21300090: poker cards_45
+    21300092: poker cards_46
+    21300094: poker cards_47
+    21300096: poker cards_48
+    21300098: poker cards_49
+    21300100: poker cards_50
+    21300102: poker cards_51
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poker cards_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2224
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_1
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2224
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_2
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2224
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_3
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 2224
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_4
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2224
+        width: 300
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_5
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 2224
+        width: 300
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_6
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 2224
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_7
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 2224
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_8
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 2224
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_9
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 2224
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1728
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_11
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1728
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_12
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1728
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_13
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1728
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_14
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1728
+        width: 300
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_15
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1728
+        width: 300
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_16
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1728
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_17
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 1728
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_18
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 1728
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_19
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 1728
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1233
+        width: 302
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_21
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1233
+        width: 302
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_22
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1233
+        width: 302
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_23
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1233
+        width: 302
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_24
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1233
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_25
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1233
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_26
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1233
+        width: 302
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_27
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 1233
+        width: 302
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_28
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 1233
+        width: 302
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_29
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 1233
+        width: 302
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 737
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_31
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 737
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_32
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 737
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_33
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 737
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_34
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 737
+        width: 300
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_35
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 737
+        width: 300
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_36
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 737
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_37
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 737
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_38
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 737
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_39
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 737
+        width: 302
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_40
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 229
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_41
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 229
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_42
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 229
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_43
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 229
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_44
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 229
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_45
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 229
+        width: 300
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_46
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 229
+        width: 300
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_47
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 229
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_48
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 229
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_49
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 229
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_50
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 229
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poker cards_51
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 229
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -1628, y: -787.7252}
+      - {x: -1920, y: -787.7252}
+      - {x: -1926, y: -789.72455}
+      - {x: -1926, y: -1199.5815}
+      - {x: -1916, y: -1205.5795}
+      - {x: -1892, y: -1207.5787}
+      - {x: -1626, y: -1207.5787}
+      - {x: -1618, y: -1195.583}
+      - {x: -1618, y: -797.72174}
+    - - {x: -1298, y: -787.7252}
+      - {x: -1596, y: -787.7252}
+      - {x: -1604, y: -797.72174}
+      - {x: -1604, y: -1203.5802}
+      - {x: -1588, y: -1207.5787}
+      - {x: -1338, y: -1207.5787}
+      - {x: -1306, y: -1205.5795}
+      - {x: -1296, y: -1195.583}
+      - {x: -1296, y: -797.72174}
+    - - {x: -982, y: -787.7252}
+      - {x: -1276, y: -787.7252}
+      - {x: -1282, y: -797.72174}
+      - {x: -1282, y: -1203.5802}
+      - {x: -1266, y: -1207.5787}
+      - {x: -1016, y: -1207.5787}
+      - {x: -984, y: -1205.5795}
+      - {x: -974, y: -1195.583}
+      - {x: -974, y: -797.72174}
+    - - {x: -660, y: -787.7252}
+      - {x: -954, y: -787.7252}
+      - {x: -960, y: -793.72314}
+      - {x: -960, y: -1203.5802}
+      - {x: -958, y: -1207.5787}
+      - {x: -670, y: -1207.5787}
+      - {x: -662, y: -1205.5795}
+      - {x: -652, y: -1195.583}
+      - {x: -652, y: -795.7225}
+    - - {x: -338, y: -787.7252}
+      - {x: -632, y: -787.7252}
+      - {x: -638, y: -795.7225}
+      - {x: -638, y: -1191.5844}
+      - {x: -636, y: -1199.5815}
+      - {x: -626, y: -1207.5787}
+      - {x: -362, y: -1207.5787}
+      - {x: -340, y: -1205.5795}
+      - {x: -330, y: -1195.583}
+      - {x: -330, y: -795.7225}
+    - - {x: -16, y: -787.7252}
+      - {x: -308, y: -787.7252}
+      - {x: -314, y: -795.7225}
+      - {x: -314, y: -1195.583}
+      - {x: -312, y: -1205.5795}
+      - {x: -292, y: -1207.5787}
+      - {x: -16, y: -1207.5787}
+      - {x: -8, y: -1197.5823}
+      - {x: -8, y: -795.7225}
+    - - {x: 306, y: -787.7252}
+      - {x: 14, y: -787.7252}
+      - {x: 8, y: -795.7225}
+      - {x: 8, y: -1195.583}
+      - {x: 10, y: -1205.5795}
+      - {x: 30, y: -1207.5787}
+      - {x: 306, y: -1207.5787}
+      - {x: 314, y: -1197.5823}
+      - {x: 314, y: -795.7225}
+    - - {x: 636, y: -795.7225}
+      - {x: 628, y: -787.7252}
+      - {x: 336, y: -787.7252}
+      - {x: 330, y: -795.7225}
+      - {x: 330, y: -1195.583}
+      - {x: 340, y: -1205.5795}
+      - {x: 354, y: -1207.5787}
+      - {x: 628, y: -1207.5787}
+      - {x: 636, y: -1197.5823}
+      - {x: 638, y: -1191.5844}
+      - {x: 638, y: -801.72034}
+    - - {x: 960, y: -789.72455}
+      - {x: 952, y: -787.7252}
+      - {x: 658, y: -787.7252}
+      - {x: 652, y: -795.7225}
+      - {x: 652, y: -1195.583}
+      - {x: 662, y: -1205.5795}
+      - {x: 676, y: -1207.5787}
+      - {x: 950, y: -1207.5787}
+      - {x: 960, y: -1195.583}
+    - - {x: 1282, y: -797.72174}
+      - {x: 1272, y: -787.7252}
+      - {x: 980, y: -787.7252}
+      - {x: 974, y: -797.72174}
+      - {x: 974, y: -1203.5802}
+      - {x: 988, y: -1207.5787}
+      - {x: 1274, y: -1207.5787}
+      - {x: 1282, y: -1195.583}
+    - - {x: 1604, y: -797.72174}
+      - {x: 1594, y: -787.7252}
+      - {x: 1302, y: -787.7252}
+      - {x: 1296, y: -789.72455}
+      - {x: 1296, y: -1203.5802}
+      - {x: 1312, y: -1207.5787}
+      - {x: 1596, y: -1207.5787}
+      - {x: 1604, y: -1195.583}
+    - - {x: 1924, y: -787.7252}
+      - {x: 1626, y: -787.7252}
+      - {x: 1618, y: -797.72174}
+      - {x: 1618, y: -1203.5802}
+      - {x: 1634, y: -1207.5787}
+      - {x: 1882, y: -1207.5787}
+      - {x: 1916, y: -1205.5795}
+      - {x: 1926, y: -1195.583}
+      - {x: 1926, y: -797.72174}
+    - - {x: -1618, y: -287.89957}
+      - {x: -1628, y: -277.90308}
+      - {x: -1918, y: -277.90308}
+      - {x: -1926, y: -287.89957}
+      - {x: -1926, y: -685.7608}
+      - {x: -1922, y: -693.758}
+      - {x: -1906, y: -699.7559}
+      - {x: -1710, y: -699.7559}
+      - {x: -1638, y: -697.7566}
+      - {x: -1628, y: -695.7573}
+      - {x: -1618, y: -685.7608}
+    - - {x: -1224, y: -683.7615}
+      - {x: -1224, y: -289.8989}
+      - {x: -1226, y: -283.90097}
+      - {x: -1234, y: -277.90308}
+      - {x: -1524, y: -277.90308}
+      - {x: -1532, y: -287.89957}
+      - {x: -1532, y: -685.7608}
+      - {x: -1528, y: -693.758}
+      - {x: -1512, y: -699.7559}
+      - {x: -1316, y: -699.7559}
+      - {x: -1244, y: -697.7566}
+      - {x: -1234, y: -695.7573}
+      - {x: -1226, y: -689.7594}
+    - - {x: -836, y: -277.90308}
+      - {x: -880, y: -277.90308}
+      - {x: -880, y: -279.90237}
+      - {x: -1090, y: -277.90308}
+      - {x: -1128, y: -277.90308}
+      - {x: -1138, y: -287.89957}
+      - {x: -1138, y: -685.7608}
+      - {x: -1132, y: -697.7566}
+      - {x: -1082, y: -699.7559}
+      - {x: -892, y: -699.7559}
+      - {x: -838, y: -697.7566}
+      - {x: -830, y: -689.7594}
+      - {x: -830, y: -285.90027}
+    - - {x: -436, y: -283.90097}
+      - {x: -446, y: -277.90308}
+      - {x: -484, y: -277.90308}
+      - {x: -694, y: -279.90237}
+      - {x: -694, y: -277.90308}
+      - {x: -734, y: -277.90308}
+      - {x: -744, y: -279.90237}
+      - {x: -744, y: -687.76013}
+      - {x: -736, y: -695.7573}
+      - {x: -726, y: -697.7566}
+      - {x: -686, y: -699.7559}
+      - {x: -454, y: -699.7559}
+      - {x: -446, y: -695.7573}
+      - {x: -438, y: -689.7594}
+      - {x: -436, y: -685.7608}
+    - - {x: -48, y: -277.90308}
+      - {x: -198, y: -277.90308}
+      - {x: -300, y: -279.90237}
+      - {x: -300, y: -277.90308}
+      - {x: -340, y: -277.90308}
+      - {x: -350, y: -279.90237}
+      - {x: -350, y: -687.76013}
+      - {x: -342, y: -695.7573}
+      - {x: -332, y: -697.7566}
+      - {x: -292, y: -699.7559}
+      - {x: -60, y: -699.7559}
+      - {x: -52, y: -695.7573}
+      - {x: -44, y: -687.76013}
+      - {x: -44, y: -285.90027}
+    - - {x: 350, y: -285.90027}
+      - {x: 342, y: -277.90308}
+      - {x: 50, y: -277.90308}
+      - {x: 44, y: -285.90027}
+      - {x: 44, y: -687.76013}
+      - {x: 52, y: -695.7573}
+      - {x: 62, y: -697.7566}
+      - {x: 102, y: -699.7559}
+      - {x: 334, y: -699.7559}
+      - {x: 342, y: -695.7573}
+      - {x: 350, y: -687.76013}
+    - - {x: 744, y: -287.89957}
+      - {x: 740, y: -279.90237}
+      - {x: 734, y: -277.90308}
+      - {x: 444, y: -277.90308}
+      - {x: 438, y: -285.90027}
+      - {x: 436, y: -291.8982}
+      - {x: 436, y: -691.7587}
+      - {x: 452, y: -699.7559}
+      - {x: 644, y: -699.7559}
+      - {x: 726, y: -697.7566}
+      - {x: 736, y: -695.7573}
+      - {x: 744, y: -687.76013}
+    - - {x: 1138, y: -685.7608}
+      - {x: 1138, y: -287.89957}
+      - {x: 1128, y: -277.90308}
+      - {x: 1090, y: -277.90308}
+      - {x: 880, y: -279.90237}
+      - {x: 880, y: -277.90308}
+      - {x: 842, y: -277.90308}
+      - {x: 830, y: -279.90237}
+      - {x: 830, y: -691.7587}
+      - {x: 846, y: -699.7559}
+      - {x: 1038, y: -699.7559}
+      - {x: 1118, y: -697.7566}
+      - {x: 1130, y: -695.7573}
+      - {x: 1136, y: -691.7587}
+    - - {x: 1532, y: -287.89957}
+      - {x: 1522, y: -277.90308}
+      - {x: 1484, y: -277.90308}
+      - {x: 1274, y: -279.90237}
+      - {x: 1272, y: -277.90308}
+      - {x: 1234, y: -277.90308}
+      - {x: 1226, y: -283.90097}
+      - {x: 1224, y: -289.8989}
+      - {x: 1224, y: -691.7587}
+      - {x: 1240, y: -699.7559}
+      - {x: 1468, y: -699.7559}
+      - {x: 1524, y: -697.7566}
+      - {x: 1530, y: -691.7587}
+      - {x: 1532, y: -685.7608}
+    - - {x: 1926, y: -287.89957}
+      - {x: 1916, y: -277.90308}
+      - {x: 1626, y: -277.90308}
+      - {x: 1618, y: -287.89957}
+      - {x: 1618, y: -685.7608}
+      - {x: 1628, y: -695.7573}
+      - {x: 1638, y: -699.7559}
+      - {x: 1872, y: -699.7559}
+      - {x: 1918, y: -697.7566}
+      - {x: 1924, y: -691.7587}
+      - {x: 1926, y: -685.7608}
+    - - {x: -1618, y: 205.92818}
+      - {x: -1624, y: 215.92468}
+      - {x: -1630, y: 217.92398}
+      - {x: -1916, y: 217.92398}
+      - {x: -1920, y: 215.92468}
+      - {x: -1926, y: 207.92747}
+      - {x: -1926, y: -189.93375}
+      - {x: -1920, y: -201.92957}
+      - {x: -1878, y: -203.92886}
+      - {x: -1686, y: -203.92886}
+      - {x: -1624, y: -201.92957}
+      - {x: -1618, y: -191.93306}
+    - - {x: -1230, y: 215.92468}
+      - {x: -1236, y: 217.92398}
+      - {x: -1522, y: 217.92398}
+      - {x: -1526, y: 215.92468}
+      - {x: -1532, y: 207.92747}
+      - {x: -1532, y: -189.93375}
+      - {x: -1526, y: -201.92957}
+      - {x: -1490, y: -203.92886}
+      - {x: -1312, y: -203.92886}
+      - {x: -1240, y: -201.92957}
+      - {x: -1234, y: -199.93027}
+      - {x: -1224, y: -189.93375}
+      - {x: -1224, y: 205.92818}
+    - - {x: -836, y: 215.92468}
+      - {x: -842, y: 217.92398}
+      - {x: -1128, y: 217.92398}
+      - {x: -1132, y: 215.92468}
+      - {x: -1138, y: 207.92747}
+      - {x: -1138, y: -189.93375}
+      - {x: -1132, y: -201.92957}
+      - {x: -1096, y: -203.92886}
+      - {x: -844, y: -203.92886}
+      - {x: -832, y: -193.93236}
+      - {x: -830, y: -187.93445}
+      - {x: -830, y: 205.92818}
+    - - {x: -436, y: 211.92609}
+      - {x: -446, y: 217.92398}
+      - {x: -734, y: 217.92398}
+      - {x: -738, y: 215.92468}
+      - {x: -744, y: 207.92747}
+      - {x: -744, y: -191.93306}
+      - {x: -736, y: -199.93027}
+      - {x: -730, y: -201.92957}
+      - {x: -656, y: -203.92886}
+      - {x: -524, y: -203.92886}
+      - {x: -452, y: -201.92957}
+      - {x: -444, y: -199.93027}
+      - {x: -436, y: -189.93375}
+    - - {x: -48, y: 215.92468}
+      - {x: -54, y: 217.92398}
+      - {x: -80, y: 217.92398}
+      - {x: -312, y: 215.92468}
+      - {x: -312, y: 217.92398}
+      - {x: -340, y: 217.92398}
+      - {x: -350, y: 215.92468}
+      - {x: -350, y: -191.93306}
+      - {x: -342, y: -199.93027}
+      - {x: -336, y: -203.92886}
+      - {x: -86, y: -203.92886}
+      - {x: -50, y: -201.92957}
+      - {x: -44, y: -191.93306}
+      - {x: -44, y: 207.92747}
+    - - {x: 346, y: 215.92468}
+      - {x: 340, y: 217.92398}
+      - {x: 314, y: 217.92398}
+      - {x: 82, y: 215.92468}
+      - {x: 82, y: 217.92398}
+      - {x: 54, y: 217.92398}
+      - {x: 44, y: 215.92468}
+      - {x: 44, y: -191.93306}
+      - {x: 52, y: -199.93027}
+      - {x: 58, y: -203.92886}
+      - {x: 308, y: -203.92886}
+      - {x: 344, y: -201.92957}
+      - {x: 350, y: -191.93306}
+      - {x: 350, y: 207.92747}
+    - - {x: 744, y: 207.92747}
+      - {x: 738, y: 215.92468}
+      - {x: 732, y: 217.92398}
+      - {x: 708, y: 217.92398}
+      - {x: 476, y: 215.92468}
+      - {x: 476, y: 217.92398}
+      - {x: 444, y: 217.92398}
+      - {x: 436, y: 215.92468}
+      - {x: 436, y: -193.93236}
+      - {x: 450, y: -203.92886}
+      - {x: 656, y: -203.92886}
+      - {x: 730, y: -201.92957}
+      - {x: 736, y: -199.93027}
+      - {x: 744, y: -191.93306}
+    - - {x: 1138, y: 207.92747}
+      - {x: 1132, y: 215.92468}
+      - {x: 1126, y: 217.92398}
+      - {x: 1102, y: 217.92398}
+      - {x: 870, y: 215.92468}
+      - {x: 870, y: 217.92398}
+      - {x: 840, y: 217.92398}
+      - {x: 830, y: 215.92468}
+      - {x: 830, y: -193.93236}
+      - {x: 844, y: -203.92886}
+      - {x: 1050, y: -203.92886}
+      - {x: 1124, y: -201.92957}
+      - {x: 1132, y: -199.93027}
+      - {x: 1138, y: -191.93306}
+    - - {x: 1532, y: 209.92677}
+      - {x: 1522, y: 217.92398}
+      - {x: 1494, y: 217.92398}
+      - {x: 1264, y: 215.92468}
+      - {x: 1264, y: 217.92398}
+      - {x: 1236, y: 217.92398}
+      - {x: 1224, y: 215.92468}
+      - {x: 1224, y: -189.93375}
+      - {x: 1228, y: -197.93095}
+      - {x: 1238, y: -203.92886}
+      - {x: 1474, y: -203.92886}
+      - {x: 1518, y: -201.92957}
+      - {x: 1526, y: -199.93027}
+      - {x: 1532, y: -191.93306}
+    - - {x: 1926, y: 207.92747}
+      - {x: 1920, y: 215.92468}
+      - {x: 1914, y: 217.92398}
+      - {x: 1888, y: 217.92398}
+      - {x: 1658, y: 215.92468}
+      - {x: 1658, y: 217.92398}
+      - {x: 1630, y: 217.92398}
+      - {x: 1618, y: 215.92468}
+      - {x: 1618, y: -189.93375}
+      - {x: 1624, y: -201.92957}
+      - {x: 1666, y: -203.92886}
+      - {x: 1862, y: -203.92886}
+      - {x: 1920, y: -201.92957}
+      - {x: 1926, y: -191.93306}
+    - - {x: -1618, y: 701.75525}
+      - {x: -1624, y: 713.75104}
+      - {x: -1642, y: 713.75104}
+      - {x: -1642, y: 711.7517}
+      - {x: -1900, y: 713.75104}
+      - {x: -1918, y: 713.75104}
+      - {x: -1926, y: 703.7545}
+      - {x: -1926, y: 305.8933}
+      - {x: -1922, y: 293.8975}
+      - {x: -1890, y: 291.8982}
+      - {x: -1694, y: 291.8982}
+      - {x: -1630, y: 293.8975}
+      - {x: -1620, y: 299.8954}
+      - {x: -1618, y: 305.8933}
+    - - {x: -1224, y: 701.75525}
+      - {x: -1230, y: 713.75104}
+      - {x: -1290, y: 713.75104}
+      - {x: -1364, y: 711.7517}
+      - {x: -1508, y: 711.7517}
+      - {x: -1508, y: 713.75104}
+      - {x: -1526, y: 713.75104}
+      - {x: -1532, y: 703.7545}
+      - {x: -1532, y: 303.894}
+      - {x: -1526, y: 293.8975}
+      - {x: -1496, y: 291.8982}
+      - {x: -1300, y: 291.8982}
+      - {x: -1236, y: 293.8975}
+      - {x: -1226, y: 299.8954}
+      - {x: -1224, y: 305.8933}
+    - - {x: -830, y: 701.75525}
+      - {x: -836, y: 713.75104}
+      - {x: -896, y: 713.75104}
+      - {x: -970, y: 711.7517}
+      - {x: -1114, y: 711.7517}
+      - {x: -1114, y: 713.75104}
+      - {x: -1132, y: 713.75104}
+      - {x: -1138, y: 703.7545}
+      - {x: -1138, y: 303.894}
+      - {x: -1132, y: 293.8975}
+      - {x: -1102, y: 291.8982}
+      - {x: -906, y: 291.8982}
+      - {x: -842, y: 293.8975}
+      - {x: -832, y: 301.89468}
+      - {x: -830, y: 307.8926}
+    - - {x: -436, y: 307.8926}
+      - {x: -436, y: 699.7559}
+      - {x: -442, y: 711.7517}
+      - {x: -450, y: 713.75104}
+      - {x: -502, y: 713.75104}
+      - {x: -576, y: 711.7517}
+      - {x: -720, y: 711.7517}
+      - {x: -720, y: 713.75104}
+      - {x: -738, y: 713.75104}
+      - {x: -744, y: 703.7545}
+      - {x: -744, y: 303.894}
+      - {x: -738, y: 293.8975}
+      - {x: -708, y: 291.8982}
+      - {x: -514, y: 291.8982}
+      - {x: -450, y: 293.8975}
+      - {x: -444, y: 295.8968}
+      - {x: -438, y: 301.89468}
+    - - {x: -50, y: 711.7517}
+      - {x: -56, y: 713.75104}
+      - {x: -64, y: 713.75104}
+      - {x: -182, y: 711.7517}
+      - {x: -264, y: 713.75104}
+      - {x: -344, y: 713.75104}
+      - {x: -350, y: 703.7545}
+      - {x: -350, y: 303.894}
+      - {x: -344, y: 293.8975}
+      - {x: -314, y: 291.8982}
+      - {x: -56, y: 291.8982}
+      - {x: -44, y: 301.89468}
+      - {x: -44, y: 703.7545}
+    - - {x: 350, y: 703.7545}
+      - {x: 344, y: 713.75104}
+      - {x: 274, y: 713.75104}
+      - {x: 210, y: 711.7517}
+      - {x: 58, y: 713.75104}
+      - {x: 56, y: 713.75104}
+      - {x: 50, y: 711.7517}
+      - {x: 44, y: 703.7545}
+      - {x: 44, y: 303.894}
+      - {x: 50, y: 293.8975}
+      - {x: 80, y: 291.8982}
+      - {x: 274, y: 291.8982}
+      - {x: 338, y: 293.8975}
+      - {x: 344, y: 295.8968}
+      - {x: 350, y: 303.894}
+    - - {x: 744, y: 703.7545}
+      - {x: 738, y: 713.75104}
+      - {x: 720, y: 713.75104}
+      - {x: 720, y: 711.7517}
+      - {x: 604, y: 711.7517}
+      - {x: 452, y: 713.75104}
+      - {x: 450, y: 713.75104}
+      - {x: 440, y: 709.75244}
+      - {x: 436, y: 699.7559}
+      - {x: 436, y: 307.8926}
+      - {x: 438, y: 301.89468}
+      - {x: 450, y: 291.8982}
+      - {x: 682, y: 291.8982}
+      - {x: 732, y: 293.8975}
+      - {x: 738, y: 295.8968}
+      - {x: 744, y: 303.894}
+    - - {x: 1138, y: 703.7545}
+      - {x: 1132, y: 713.75104}
+      - {x: 1064, y: 713.75104}
+      - {x: 998, y: 711.7517}
+      - {x: 914, y: 713.75104}
+      - {x: 836, y: 713.75104}
+      - {x: 832, y: 707.7531}
+      - {x: 830, y: 701.75525}
+      - {x: 830, y: 307.8926}
+      - {x: 832, y: 301.89468}
+      - {x: 842, y: 293.8975}
+      - {x: 906, y: 291.8982}
+      - {x: 1062, y: 291.8982}
+      - {x: 1126, y: 293.8975}
+      - {x: 1132, y: 295.8968}
+      - {x: 1138, y: 303.894}
+    - - {x: 1532, y: 703.7545}
+      - {x: 1526, y: 713.75104}
+      - {x: 1458, y: 713.75104}
+      - {x: 1392, y: 711.7517}
+      - {x: 1248, y: 711.7517}
+      - {x: 1248, y: 713.75104}
+      - {x: 1230, y: 713.75104}
+      - {x: 1226, y: 707.7531}
+      - {x: 1224, y: 701.75525}
+      - {x: 1224, y: 305.8933}
+      - {x: 1228, y: 293.8975}
+      - {x: 1260, y: 291.8982}
+      - {x: 1456, y: 291.8982}
+      - {x: 1520, y: 293.8975}
+      - {x: 1530, y: 299.8954}
+      - {x: 1532, y: 305.8933}
+    - - {x: 1926, y: 701.75525}
+      - {x: 1920, y: 713.75104}
+      - {x: 1902, y: 713.75104}
+      - {x: 1902, y: 711.7517}
+      - {x: 1644, y: 713.75104}
+      - {x: 1626, y: 713.75104}
+      - {x: 1618, y: 703.7545}
+      - {x: 1618, y: 305.8933}
+      - {x: 1622, y: 293.8975}
+      - {x: 1654, y: 291.8982}
+      - {x: 1850, y: 291.8982}
+      - {x: 1914, y: 293.8975}
+      - {x: 1924, y: 299.8954}
+      - {x: 1926, y: 305.8933}
+    - - {x: -1626, y: 1207.5787}
+      - {x: -1920, y: 1207.5787}
+      - {x: -1926, y: 1199.5815}
+      - {x: -1926, y: 801.72034}
+      - {x: -1922, y: 789.72455}
+      - {x: -1900, y: 787.7252}
+      - {x: -1678, y: 787.7252}
+      - {x: -1630, y: 789.72455}
+      - {x: -1620, y: 795.7225}
+      - {x: -1618, y: 801.72034}
+      - {x: -1618, y: 1197.5823}
+    - - {x: -1230, y: 1207.5787}
+      - {x: -1526, y: 1207.5787}
+      - {x: -1530, y: 1203.5802}
+      - {x: -1532, y: 1197.5823}
+      - {x: -1532, y: 799.72107}
+      - {x: -1526, y: 789.72455}
+      - {x: -1506, y: 787.7252}
+      - {x: -1284, y: 787.7252}
+      - {x: -1236, y: 789.72455}
+      - {x: -1226, y: 795.7225}
+      - {x: -1224, y: 801.72034}
+      - {x: -1224, y: 1197.5823}
+    - - {x: -830, y: 1197.5823}
+      - {x: -836, y: 1207.5787}
+      - {x: -1132, y: 1207.5787}
+      - {x: -1138, y: 1199.5815}
+      - {x: -1138, y: 799.72107}
+      - {x: -1128, y: 789.72455}
+      - {x: -1104, y: 787.7252}
+      - {x: -840, y: 787.7252}
+      - {x: -832, y: 795.7225}
+      - {x: -830, y: 801.72034}
+    - - {x: -442, y: 1207.5787}
+      - {x: -738, y: 1207.5787}
+      - {x: -744, y: 1199.5815}
+      - {x: -744, y: 799.72107}
+      - {x: -734, y: 789.72455}
+      - {x: -710, y: 787.7252}
+      - {x: -446, y: 787.7252}
+      - {x: -440, y: 793.72314}
+      - {x: -436, y: 799.72107}
+      - {x: -436, y: 1201.5809}
+    - - {x: -50, y: 1207.5787}
+      - {x: -344, y: 1207.5787}
+      - {x: -350, y: 1199.5815}
+      - {x: -350, y: 799.72107}
+      - {x: -340, y: 789.72455}
+      - {x: -316, y: 787.7252}
+      - {x: -52, y: 787.7252}
+      - {x: -46, y: 793.72314}
+      - {x: -44, y: 799.72107}
+      - {x: -44, y: 1199.5815}
+    - - {x: 52, y: 1207.5787}
+      - {x: 44, y: 1199.5815}
+      - {x: 44, y: 799.72107}
+      - {x: 46, y: 789.72455}
+      - {x: 68, y: 787.7252}
+      - {x: 290, y: 787.7252}
+      - {x: 342, y: 789.72455}
+      - {x: 350, y: 799.72107}
+      - {x: 350, y: 1199.5815}
+      - {x: 342, y: 1207.5787}
+    - - {x: 444, y: 1207.5787}
+      - {x: 436, y: 1197.5823}
+      - {x: 436, y: 803.71967}
+      - {x: 440, y: 789.72455}
+      - {x: 460, y: 787.7252}
+      - {x: 684, y: 787.7252}
+      - {x: 736, y: 789.72455}
+      - {x: 744, y: 799.72107}
+      - {x: 744, y: 1199.5815}
+      - {x: 736, y: 1207.5787}
+    - - {x: 838, y: 1207.5787}
+      - {x: 830, y: 1197.5823}
+      - {x: 830, y: 801.72034}
+      - {x: 834, y: 789.72455}
+      - {x: 856, y: 787.7252}
+      - {x: 1078, y: 787.7252}
+      - {x: 1130, y: 789.72455}
+      - {x: 1138, y: 799.72107}
+      - {x: 1138, y: 1199.5815}
+      - {x: 1130, y: 1207.5787}
+    - - {x: 1524, y: 1207.5787}
+      - {x: 1232, y: 1207.5787}
+      - {x: 1226, y: 1203.5802}
+      - {x: 1224, y: 1197.5823}
+      - {x: 1224, y: 801.72034}
+      - {x: 1228, y: 789.72455}
+      - {x: 1254, y: 787.7252}
+      - {x: 1520, y: 787.7252}
+      - {x: 1532, y: 797.72174}
+      - {x: 1532, y: 1197.5823}
+    - - {x: 1918, y: 1207.5787}
+      - {x: 1624, y: 1207.5787}
+      - {x: 1618, y: 1199.5815}
+      - {x: 1618, y: 801.72034}
+      - {x: 1622, y: 789.72455}
+      - {x: 1644, y: 787.7252}
+      - {x: 1866, y: 787.7252}
+      - {x: 1914, y: 789.72455}
+      - {x: 1924, y: 795.7225}
+      - {x: 1926, y: 801.72034}
+      - {x: 1926, y: 1197.5823}
+    physicsShape:
+    - - {x: -1924, y: -789.72455}
+      - {x: -1924, y: -1203.5802}
+      - {x: -1920, y: -1205.5795}
+      - {x: -1626, y: -1205.5795}
+      - {x: -1620, y: -1197.5823}
+      - {x: -1620, y: -795.7225}
+      - {x: -1628, y: -789.72455}
+    - - {x: -1600, y: -789.72455}
+      - {x: -1600, y: -1205.5795}
+      - {x: -1300, y: -1205.5795}
+      - {x: -1298, y: -1203.5802}
+      - {x: -1298, y: -789.72455}
+    - - {x: -1278, y: -789.72455}
+      - {x: -1278, y: -1205.5795}
+      - {x: -982, y: -1205.5795}
+      - {x: -976, y: -1199.5815}
+      - {x: -976, y: -789.72455}
+    - - {x: -956, y: -789.72455}
+      - {x: -956, y: -1205.5795}
+      - {x: -654, y: -1205.5795}
+      - {x: -654, y: -791.7238}
+      - {x: -662, y: -789.72455}
+    - - {x: -634, y: -789.72455}
+      - {x: -634, y: -1205.5795}
+      - {x: -332, y: -1205.5795}
+      - {x: -332, y: -791.7238}
+      - {x: -340, y: -789.72455}
+    - - {x: -312, y: -789.72455}
+      - {x: -312, y: -1205.5795}
+      - {x: -10, y: -1205.5795}
+      - {x: -10, y: -791.7238}
+      - {x: -18, y: -789.72455}
+    - - {x: 12, y: -789.72455}
+      - {x: 10, y: -791.7238}
+      - {x: 10, y: -1205.5795}
+      - {x: 312, y: -1205.5795}
+      - {x: 312, y: -789.72455}
+    - - {x: 334, y: -789.72455}
+      - {x: 332, y: -791.7238}
+      - {x: 332, y: -1205.5795}
+      - {x: 634, y: -1205.5795}
+      - {x: 634, y: -789.72455}
+    - - {x: 656, y: -789.72455}
+      - {x: 654, y: -791.7238}
+      - {x: 654, y: -1205.5795}
+      - {x: 956, y: -1205.5795}
+      - {x: 956, y: -789.72455}
+    - - {x: 976, y: -789.72455}
+      - {x: 976, y: -1205.5795}
+      - {x: 1260, y: -1205.5795}
+      - {x: 1278, y: -1201.5809}
+      - {x: 1278, y: -789.72455}
+    - - {x: 1298, y: -789.72455}
+      - {x: 1298, y: -1203.5802}
+      - {x: 1300, y: -1205.5795}
+      - {x: 1600, y: -1205.5795}
+      - {x: 1600, y: -789.72455}
+    - - {x: 1620, y: -1205.5795}
+      - {x: 1924, y: -1205.5795}
+      - {x: 1924, y: -789.72455}
+      - {x: 1630, y: -789.72455}
+      - {x: 1620, y: -791.7238}
+    - - {x: -1916, y: -279.90237}
+      - {x: -1924, y: -283.90097}
+      - {x: -1924, y: -697.7566}
+      - {x: -1620, y: -697.7566}
+      - {x: -1620, y: -283.90097}
+      - {x: -1626, y: -279.90237}
+    - - {x: -1524, y: -279.90237}
+      - {x: -1530, y: -283.90097}
+      - {x: -1530, y: -697.7566}
+      - {x: -1232, y: -697.7566}
+      - {x: -1228, y: -689.7594}
+      - {x: -1228, y: -279.90237}
+    - - {x: -848, y: -697.7566}
+      - {x: -834, y: -695.7573}
+      - {x: -834, y: -279.90237}
+      - {x: -1136, y: -279.90237}
+      - {x: -1136, y: -697.7566}
+    - - {x: -734, y: -279.90237}
+      - {x: -742, y: -281.90167}
+      - {x: -742, y: -693.758}
+      - {x: -740, y: -697.7566}
+      - {x: -440, y: -697.7566}
+      - {x: -440, y: -279.90237}
+    - - {x: -342, y: -279.90237}
+      - {x: -348, y: -281.90167}
+      - {x: -348, y: -697.7566}
+      - {x: -50, y: -697.7566}
+      - {x: -46, y: -693.758}
+      - {x: -46, y: -279.90237}
+    - - {x: 50, y: -279.90237}
+      - {x: 46, y: -281.90167}
+      - {x: 46, y: -697.7566}
+      - {x: 324, y: -697.7566}
+      - {x: 348, y: -691.7587}
+      - {x: 348, y: -279.90237}
+    - - {x: 440, y: -279.90237}
+      - {x: 440, y: -697.7566}
+      - {x: 742, y: -697.7566}
+      - {x: 742, y: -279.90237}
+    - - {x: 840, y: -279.90237}
+      - {x: 834, y: -281.90167}
+      - {x: 834, y: -685.7608}
+      - {x: 838, y: -697.7566}
+      - {x: 1132, y: -697.7566}
+      - {x: 1136, y: -687.76013}
+      - {x: 1136, y: -279.90237}
+    - - {x: 1228, y: -279.90237}
+      - {x: 1228, y: -697.7566}
+      - {x: 1530, y: -697.7566}
+      - {x: 1530, y: -279.90237}
+    - - {x: 1630, y: -279.90237}
+      - {x: 1620, y: -281.90167}
+      - {x: 1620, y: -697.7566}
+      - {x: 1924, y: -697.7566}
+      - {x: 1924, y: -279.90237}
+    - - {x: -1924, y: 213.92538}
+      - {x: -1924, y: -195.93166}
+      - {x: -1918, y: -199.93027}
+      - {x: -1864, y: -201.92957}
+      - {x: -1620, y: -201.92957}
+      - {x: -1620, y: 213.92538}
+    - - {x: -1530, y: 213.92538}
+      - {x: -1530, y: -199.93027}
+      - {x: -1526, y: -201.92957}
+      - {x: -1228, y: -201.92957}
+      - {x: -1228, y: 213.92538}
+    - - {x: -1134, y: 213.92538}
+      - {x: -1136, y: 205.92818}
+      - {x: -1136, y: -187.93445}
+      - {x: -1134, y: -201.92957}
+      - {x: -834, y: -201.92957}
+      - {x: -834, y: 213.92538}
+    - - {x: -742, y: 213.92538}
+      - {x: -742, y: -201.92957}
+      - {x: -454, y: -201.92957}
+      - {x: -440, y: -193.93236}
+      - {x: -440, y: 211.92609}
+      - {x: -446, y: 213.92538}
+    - - {x: -348, y: 213.92538}
+      - {x: -348, y: -201.92957}
+      - {x: -60, y: -201.92957}
+      - {x: -46, y: -193.93236}
+      - {x: -46, y: 211.92609}
+      - {x: -52, y: 213.92538}
+    - - {x: 46, y: 213.92538}
+      - {x: 46, y: -201.92957}
+      - {x: 348, y: -201.92957}
+      - {x: 348, y: 213.92538}
+    - - {x: 440, y: 213.92538}
+      - {x: 440, y: -201.92957}
+      - {x: 742, y: -201.92957}
+      - {x: 742, y: 213.92538}
+    - - {x: 834, y: 213.92538}
+      - {x: 834, y: -195.93166}
+      - {x: 842, y: -197.93095}
+      - {x: 864, y: -199.93027}
+      - {x: 892, y: -201.92957}
+      - {x: 1136, y: -201.92957}
+      - {x: 1136, y: 213.92538}
+    - - {x: 1228, y: 213.92538}
+      - {x: 1228, y: -199.93027}
+      - {x: 1236, y: -201.92957}
+      - {x: 1530, y: -201.92957}
+      - {x: 1530, y: 211.92609}
+      - {x: 1522, y: 213.92538}
+    - - {x: 1620, y: 213.92538}
+      - {x: 1620, y: -201.92957}
+      - {x: 1870, y: -201.92957}
+      - {x: 1924, y: -197.93095}
+      - {x: 1924, y: 213.92538}
+    - - {x: -1924, y: 709.75244}
+      - {x: -1924, y: 293.8975}
+      - {x: -1622, y: 293.8975}
+      - {x: -1620, y: 301.89468}
+      - {x: -1620, y: 709.75244}
+    - - {x: -1228, y: 709.75244}
+      - {x: -1530, y: 709.75244}
+      - {x: -1530, y: 299.8954}
+      - {x: -1524, y: 295.8968}
+      - {x: -1482, y: 293.8975}
+      - {x: -1318, y: 293.8975}
+      - {x: -1246, y: 295.8968}
+      - {x: -1234, y: 297.8961}
+      - {x: -1228, y: 303.894}
+    - - {x: -1136, y: 709.75244}
+      - {x: -1136, y: 293.8975}
+      - {x: -834, y: 293.8975}
+      - {x: -834, y: 709.75244}
+    - - {x: -742, y: 709.75244}
+      - {x: -742, y: 293.8975}
+      - {x: -440, y: 293.8975}
+      - {x: -440, y: 709.75244}
+    - - {x: -348, y: 293.8975}
+      - {x: -46, y: 293.8975}
+      - {x: -46, y: 709.75244}
+      - {x: -342, y: 709.75244}
+      - {x: -348, y: 701.75525}
+    - - {x: 46, y: 709.75244}
+      - {x: 46, y: 301.89468}
+      - {x: 54, y: 293.8975}
+      - {x: 348, y: 293.8975}
+      - {x: 348, y: 709.75244}
+    - - {x: 734, y: 709.75244}
+      - {x: 440, y: 709.75244}
+      - {x: 440, y: 293.8975}
+      - {x: 736, y: 293.8975}
+      - {x: 742, y: 301.89468}
+      - {x: 742, y: 701.75525}
+    - - {x: 834, y: 709.75244}
+      - {x: 834, y: 299.8954}
+      - {x: 842, y: 293.8975}
+      - {x: 1136, y: 293.8975}
+      - {x: 1136, y: 707.7531}
+      - {x: 1128, y: 709.75244}
+    - - {x: 1228, y: 709.75244}
+      - {x: 1228, y: 295.8968}
+      - {x: 1232, y: 293.8975}
+      - {x: 1530, y: 293.8975}
+      - {x: 1530, y: 707.7531}
+      - {x: 1522, y: 709.75244}
+    - - {x: 1626, y: 709.75244}
+      - {x: 1620, y: 701.75525}
+      - {x: 1620, y: 293.8975}
+      - {x: 1924, y: 293.8975}
+      - {x: 1924, y: 707.7531}
+      - {x: 1916, y: 709.75244}
+    - - {x: -1924, y: 1205.5795}
+      - {x: -1924, y: 789.72455}
+      - {x: -1646, y: 789.72455}
+      - {x: -1620, y: 793.72314}
+      - {x: -1620, y: 1205.5795}
+    - - {x: -1228, y: 1205.5795}
+      - {x: -1530, y: 1205.5795}
+      - {x: -1530, y: 789.72455}
+      - {x: -1306, y: 789.72455}
+      - {x: -1238, y: 791.7238}
+      - {x: -1228, y: 795.7225}
+    - - {x: -1132, y: 1205.5795}
+      - {x: -1136, y: 1197.5823}
+      - {x: -1136, y: 801.72034}
+      - {x: -1134, y: 789.72455}
+      - {x: -838, y: 789.72455}
+      - {x: -834, y: 795.7225}
+      - {x: -834, y: 1205.5795}
+    - - {x: -742, y: 1205.5795}
+      - {x: -742, y: 789.72455}
+      - {x: -440, y: 789.72455}
+      - {x: -440, y: 1203.5802}
+      - {x: -448, y: 1205.5795}
+    - - {x: -348, y: 1205.5795}
+      - {x: -348, y: 789.72455}
+      - {x: -46, y: 789.72455}
+      - {x: -46, y: 1203.5802}
+      - {x: -54, y: 1205.5795}
+    - - {x: 46, y: 1205.5795}
+      - {x: 46, y: 791.7238}
+      - {x: 54, y: 789.72455}
+      - {x: 340, y: 789.72455}
+      - {x: 348, y: 797.72174}
+      - {x: 348, y: 1203.5802}
+      - {x: 342, y: 1205.5795}
+    - - {x: 734, y: 1205.5795}
+      - {x: 440, y: 1205.5795}
+      - {x: 440, y: 789.72455}
+      - {x: 736, y: 789.72455}
+      - {x: 742, y: 799.72107}
+      - {x: 742, y: 1197.5823}
+    - - {x: 1128, y: 1205.5795}
+      - {x: 838, y: 1205.5795}
+      - {x: 834, y: 1199.5815}
+      - {x: 834, y: 789.72455}
+      - {x: 1130, y: 789.72455}
+      - {x: 1136, y: 799.72107}
+      - {x: 1136, y: 1197.5823}
+    - - {x: 1522, y: 1205.5795}
+      - {x: 1228, y: 1205.5795}
+      - {x: 1228, y: 789.72455}
+      - {x: 1524, y: 789.72455}
+      - {x: 1530, y: 795.7225}
+      - {x: 1530, y: 1199.5815}
+    - - {x: 1620, y: 1205.5795}
+      - {x: 1620, y: 789.72455}
+      - {x: 1918, y: 789.72455}
+      - {x: 1924, y: 795.7225}
+      - {x: 1924, y: 1199.5815}
+      - {x: 1916, y: 1205.5795}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
